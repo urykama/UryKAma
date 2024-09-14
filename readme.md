@@ -73,14 +73,14 @@
 ###
 
 <div align="center">
-  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=KAIIIAPA&hide_border=" alt="GitHub Streak" /></a>
+  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=urykama&hide_border=" alt="GitHub Streak" /></a>
 </div>
 
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=KAIIIAPA&theme=vue&show_icons=true&hide_border=true&count_private=true"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KAIIIAPA&theme=vue&show_icons=true&hide_border=true&layout=compact"  /> 
+  <img src="https://github-readme-stats.vercel.app/api?username=urykama&theme=vue&show_icons=true&hide_border=true&count_private=true"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=urykama&theme=vue&show_icons=true&hide_border=true&layout=compact"  /> 
 </div>
 
 ###
