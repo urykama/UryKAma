@@ -61,9 +61,10 @@
 
 ###
 
-<h3 align="left">🚀   CodeWars :</h3>
+<h3 align="left">🚀 ![image](https://github.com/user-attachments/assets/46b37b6c-9783-4241-9e11-5c6312ea580b)
+  CodeWars :</h3>
 
-<img src="https://www.codewars.com/users/KAIIIAPA/badges/large">
+<img src="https://www.codewars.com/users/Ural%20Kamaletdinov/badges/large">
 
 ###
 
