@@ -71,6 +71,13 @@
 <h3 align="left">🔥   Моя статистика :</h3>
 
 ###
+<div id="stat" align="center">
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=urykama&theme=github_dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=urykama&theme=github_dark&utcOffset=8)
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=urykama&theme=github_dark)
+
+</div>
 
 <div align="center">
   <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=urykama&hide_border=" alt="GitHub Streak" /></a>
