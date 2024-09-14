@@ -9,7 +9,7 @@
 ###
 
 <div align="left">
-  <a href="https://t.me/kaiiiapa" target="_blank">
+  <a href="https://t.me/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="telegram logo"  />
   </a>
 </div>
@@ -61,7 +61,7 @@
 
 ###
 
-<h3 align="left">🚀 ![image](https://github.com/user-attachments/assets/46b37b6c-9783-4241-9e11-5c6312ea580b)
+<h3 align="center"><img class="w-full h-full" src="https://www.codewars.com/packs/assets/logo.f607a0fb.svg">
   CodeWars :</h3>
 
 <img src="https://www.codewars.com/users/Ural%20Kamaletdinov/badges/large">
