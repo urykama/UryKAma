@@ -37,7 +37,7 @@
 
 <h4 align="left">Мини проекты</h4>
 
-- [Анализатор прайс-листов.](https://github.com/KAIIIAPA/Price_list_analyzer..git)
+- [Анализатор прайс-листов.](https://github.com/urykama/UU_Analizer_to_stajirovka.git)
 
   Стек: python, numpy, pandas 
 
